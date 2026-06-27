@@ -277,7 +277,7 @@ streamlit run app.py
 
 Demo Video Link:
 
-(Paste your Google Drive or YouTube link here)
+"C:\Users\USer\Videos\Screen Recordings\Screen Recording 2026-06-27 115113.mp4"
 
 
 # Conclusion
