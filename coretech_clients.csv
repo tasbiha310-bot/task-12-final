@@ -1,0 +1,31 @@
+Client_ID,Client_Name,Company_Name,Service,Project_Budget,Project_Duration_Days,Client_City,Lead_Source,Status,Rating
+1,Ali Khan,ABC Tech,Web Development,5000,30,Lahore,Facebook,Completed,4.5
+2,Sara Ahmed,Digital Hub,AI Solutions,7000,45,Karachi,Website,Active,4.8
+3,Usman Malik,TechNova,Data Science,6500,40,Islamabad,LinkedIn,Completed,4.6
+4,Ayesha Noor,SoftVision,Cloud Computing,8000,60,Lahore,Referral,Active,4.7
+5,Hamza Ali,FutureTech,Mobile App,5500,35,Faisalabad,Facebook,Completed,4.3
+6,Fatima Khan,SkyNet,Web Development,4500,25,Multan,Website,Active,4.4
+7,Bilal Ahmed,NextGen,AI Solutions,9000,70,Karachi,LinkedIn,Completed,4.9
+8,Zain Malik,TechFlow,Data Science,6200,38,Lahore,Referral,Completed,4.2
+9,Mariam Noor,AlphaSoft,Cloud Computing,8500,65,Islamabad,Website,Active,4.8
+10,Ahmed Raza,InnovateX,Mobile App,5300,32,Peshawar,Facebook,Completed,4.1
+11,Hira Khan,Core Digital,Web Development,4800,28,Lahore,Referral,Active,4.5
+12,Saad Ali,TechWorks,AI Solutions,7600,50,Karachi,Website,Completed,4.7
+13,Amna Tariq,DataEdge,Data Science,6100,36,Multan,LinkedIn,Active,4.3
+14,Farhan Malik,Vision Tech,Cloud Computing,9200,75,Islamabad,Facebook,Completed,4.9
+15,Iqra Noor,Code Masters,Mobile App,5700,34,Lahore,Referral,Active,4.4
+16,Talha Khan,SmartSoft,Web Development,5100,31,Karachi,Website,Completed,4.6
+17,Sana Ahmed,TechBridge,AI Solutions,8400,58,Faisalabad,LinkedIn,Active,4.8
+18,Adnan Ali,Future Systems,Data Science,6300,39,Lahore,Facebook,Completed,4.5
+19,Areeba Khan,CloudNet,Cloud Computing,8800,68,Multan,Referral,Active,4.7
+20,Shayan Malik,AppSphere,Mobile App,5900,37,Islamabad,Website,Completed,4.2
+21,Noor Fatima,BrightTech,Web Development,5200,30,Karachi,LinkedIn,Active,4.5
+22,Danish Ahmed,InfoSoft,AI Solutions,7900,52,Lahore,Facebook,Completed,4.6
+23,Laiba Khan,SmartData,Data Science,6400,41,Peshawar,Referral,Active,4.4
+24,Hassan Ali,CloudX,Cloud Computing,9300,80,Islamabad,Website,Completed,4.9
+25,Mehwish Noor,AppTech,Mobile App,5600,33,Karachi,Facebook,Active,4.3
+26,Jawad Khan,TechZone,Web Development,4900,29,Multan,LinkedIn,Completed,4.5
+27,Kiran Ahmed,Apex Solutions,AI Solutions,8200,56,Lahore,Referral,Active,4.8
+28,Umer Malik,DataWorks,Data Science,6700,42,Faisalabad,Website,Completed,4.6
+29,Nida Fatima,CloudPro,Cloud Computing,8700,67,Karachi,Facebook,Active,4.7
+30,Rehan Ali,MobileSoft,Mobile App,6000,40,Lahore,LinkedIn,Completed,4.4

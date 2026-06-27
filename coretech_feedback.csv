@@ -1,0 +1,31 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+1,Ali Khan,Web Development,Very good website design and fast delivery,5,Positive
+2,Sara Ahmed,AI Solutions,Excellent AI solution and great support,5,Positive
+3,Usman Malik,Data Science,Data analysis was accurate and helpful,4,Positive
+4,Ayesha Noor,Cloud Computing,Cloud service performance is amazing,5,Positive
+5,Hamza Ali,Mobile App,App works smoothly and looks professional,4,Positive
+6,Fatima Khan,Web Development,Website is okay but needs small improvements,3,Neutral
+7,Bilal Ahmed,AI Solutions,The service was acceptable,3,Neutral
+8,Zain Malik,Data Science,Average experience with the project,3,Neutral
+9,Mariam Noor,Cloud Computing,Service quality was normal,3,Neutral
+10,Ahmed Raza,Mobile App,App is fine but could be better,3,Neutral
+11,Hira Khan,Web Development,Project delivery was delayed and poor,2,Negative
+12,Saad Ali,AI Solutions,Support was not good,2,Negative
+13,Amna Tariq,Data Science,The results were disappointing,1,Negative
+14,Farhan Malik,Cloud Computing,Service had many problems,2,Negative
+15,Iqra Noor,Mobile App,Application had several errors,1,Negative
+16,Talha Khan,Web Development,Amazing experience and quality work,5,Positive
+17,Sana Ahmed,AI Solutions,Highly satisfied with the solution,5,Positive
+18,Adnan Ali,Data Science,Good analysis and professional team,4,Positive
+19,Areeba Khan,Cloud Computing,Reliable and fast service,5,Positive
+20,Shayan Malik,Mobile App,Very useful application,4,Positive
+21,Noor Fatima,Web Development,The work was average,3,Neutral
+22,Danish Ahmed,AI Solutions,Nothing special but acceptable,3,Neutral
+23,Laiba Khan,Data Science,Project completed normally,3,Neutral
+24,Hassan Ali,Cloud Computing,Service was satisfactory,3,Neutral
+25,Mehwish Noor,Mobile App,Experience was okay,3,Neutral
+26,Jawad Khan,Web Development,Very bad communication,1,Negative
+27,Kiran Ahmed,AI Solutions,Project quality was poor,2,Negative
+28,Umer Malik,Data Science,Not satisfied with results,1,Negative
+29,Nida Fatima,Cloud Computing,Many issues occurred,2,Negative
+30,Rehan Ali,Mobile App,App performance was terrible,1,Negative
